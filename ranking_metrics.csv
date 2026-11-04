@@ -1,0 +1,4 @@
+system,queries,precision_at_5,recall_at_5_capped,ndcg_at_5,mrr
+A: price sort,66,0.17,0.219,0.32,0.264
+B: composite only,66,0.182,0.242,0.308,0.3
+C: CBF + composite,66,0.361,0.467,0.607,0.689

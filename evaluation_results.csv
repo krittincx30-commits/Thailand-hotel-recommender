@@ -1,0 +1,4 @@
+system,returned5,budget_ok,style_match,bed_match,family_ok,diversity,mean_rating,low_review_share,mean_price,n_reviews_med
+A price-sort,0.85,1.0,0.319,0.152,1.0,0.472,7.891,0.013,1015.175,284.165
+B composite-only,0.85,1.0,0.329,0.15,1.0,0.412,8.783,0.017,2346.87,353.742
+C CBF+composite,0.85,1.0,0.397,0.346,1.0,0.431,8.701,0.018,1946.277,309.038

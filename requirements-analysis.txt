@@ -1,0 +1,6 @@
+# only needed to re-run evaluate.py, make_figures.py, train_test_*.py, weight_sweep.py, ahp_weights.py
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
