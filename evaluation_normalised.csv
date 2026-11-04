@@ -1,0 +1,4 @@
+,style_vs_ceiling,bed_vs_ceiling,n_style,n_bed
+A price-sort,0.466,0.262,57.0,72.0
+B composite-only,0.487,0.262,57.0,72.0
+C CBF+composite,0.6,0.538,57.0,72.0
